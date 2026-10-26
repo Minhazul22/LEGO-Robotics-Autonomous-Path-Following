@@ -77,7 +77,7 @@ See [Hardware and control notes](docs/hardware-and-control.md) before attempting
 
 ## Media and evidence
 
-The project presentation is included in [`docs/Team07-Chicken-Lady-presentation.pdf`](docs/Team07-Chicken-Lady-presentation.pdf). Add approved photos and a short demonstration video to the `media/` directory, then link them here. Only publish files you have permission to share, and remove personal information from public media.
+Add approved project photos and a short demonstration video to the `media/` directory, then link them here. The repository currently includes documentation and an illustrative controller; original competition code and media still need to be added if available. Only publish files you have permission to share, and remove personal information from public media.
 
 ## Future improvements
 

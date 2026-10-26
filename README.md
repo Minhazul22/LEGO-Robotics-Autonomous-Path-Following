@@ -57,8 +57,7 @@ See [Hardware and control notes](docs/hardware-and-control.md) before attempting
 │   └── line_following_example.py
 ├── docs/
 │   ├── project-notes.md
-│   ├── hardware-and-control.md
-│   └── Team07-Chicken-Lady-presentation.pdf
+│   └── hardware-and-control.md
 └── media/
     └── README.md
 ```
